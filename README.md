@@ -1,4 +1,4 @@
-#Robotics and Perception
+# Robotics and Perception
 
 Must be run through Processing3.
 To view the effects of the project, open and run corridoorGraph_java.pde. You might need to install the processing.video library but to do that simply go to Sketch > Import Library > Add Library >. The program generates 2 images (test0_path.jpg and test0_staircase_path.jpg) and a text document with coordinates for the robot from the input image "test0.jpg".
